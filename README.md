@@ -24,13 +24,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.png)
+![Screenshot](./screenshot.png)
+
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Devendra-singh-baghel/blog-preview-card)
-- Live Site URL: [Add live site URL here](https://devendra-singh-baghel.github.io/blog-preview-card/)
+- Solution URL: [GitHub Repositories: click here](https://github.com/Devendra-singh-baghel/blog-preview-card)
+- Live Site URL: [live preview: click here](https://devendra-singh-baghel.github.io/blog-preview-card/)
 
 ## My process
 
